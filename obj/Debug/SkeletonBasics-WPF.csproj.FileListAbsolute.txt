@@ -1,0 +1,37 @@
+C:\Users\ELECTRONICA\Documents\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\ELECTRONICA\Documents\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\ELECTRONICA\Documents\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\ELECTRONICA\Documents\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\ELECTRONICA\Documents\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\ELECTRONICA\Documents\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\ELECTRONICA\Documents\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\ELECTRONICA\Documents\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\ELECTRONICA\Documents\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\ELECTRONICA\Documents\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\ELECTRONICA\Documents\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\ELECTRONICA\Documents\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Argvz\Documents\Visual Studio 2012\Projects\SkeletonBasics-WPF - copia\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Argvz\Documents\Visual Studio 2012\Projects\SkeletonBasics-WPF - copia\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Argvz\Documents\Visual Studio 2012\Projects\SkeletonBasics-WPF - copia\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Argvz\Documents\Visual Studio 2012\Projects\SkeletonBasics-WPF - copia\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Argvz\Documents\Visual Studio 2012\Projects\SkeletonBasics-WPF - copia\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Argvz\Documents\Visual Studio 2012\Projects\SkeletonBasics-WPF - copia\obj\Debug\MainWindow.baml
+C:\Users\Argvz\Documents\Visual Studio 2012\Projects\SkeletonBasics-WPF - copia\obj\Debug\MainWindow.g.cs
+C:\Users\Argvz\Documents\Visual Studio 2012\Projects\SkeletonBasics-WPF - copia\obj\Debug\App.g.cs
+C:\Users\Argvz\Documents\Visual Studio 2012\Projects\SkeletonBasics-WPF - copia\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Argvz\Documents\Visual Studio 2012\Projects\SkeletonBasics-WPF - copia\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Argvz\Documents\Visual Studio 2012\Projects\SkeletonBasics-WPF - copia\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Argvz\Documents\Visual Studio 2012\Projects\SkeletonBasics-WPF - copia\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\ELECTRONICA\Desktop\SkeletonBasics-WPF - copia\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\ELECTRONICA\Desktop\SkeletonBasics-WPF - copia\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\ELECTRONICA\Desktop\SkeletonBasics-WPF - copia\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\ELECTRONICA\Desktop\SkeletonBasics-WPF - copia\obj\Debug\MainWindow.baml
+C:\Users\ELECTRONICA\Desktop\SkeletonBasics-WPF - copia\obj\Debug\MainWindow.g.cs
+C:\Users\ELECTRONICA\Desktop\SkeletonBasics-WPF - copia\obj\Debug\App.g.cs
+C:\Users\ELECTRONICA\Desktop\SkeletonBasics-WPF - copia\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\ELECTRONICA\Desktop\SkeletonBasics-WPF - copia\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\ELECTRONICA\Desktop\SkeletonBasics-WPF - copia\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\ELECTRONICA\Desktop\SkeletonBasics-WPF - copia\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\ELECTRONICA\Desktop\SkeletonBasics-WPF - copia\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\ELECTRONICA\Desktop\SkeletonBasics-WPF - copia\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Argvz\Documents\Visual Studio 2012\Projects\SkeletonBasics-WPF - copia\bin\Debug\MySql.Data.Entity.EF6.dll
